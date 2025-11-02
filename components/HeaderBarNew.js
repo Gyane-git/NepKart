@@ -334,10 +334,10 @@ const HeaderBarNew = () => {
                   Flash Sales
                 </Link>
                 <Link
-                  href="/NewClinicSetup"
+                  href="/NewClinicSetups"
                   className="hover:underline font-semibold hover:text-[#1FA2FF] hover:scale-105 transition-all duration-200 cursor-pointer"
                 >
-                  New Clinic Setup
+                  Recently Viewed
                 </Link>
                 
               </div>
